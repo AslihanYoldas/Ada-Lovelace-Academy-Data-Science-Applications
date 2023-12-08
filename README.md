@@ -26,7 +26,7 @@
      <br/><br/>
 
 
-- [Exercise-one](\exercise\week-1-exercise.ipynb)
+- [Exercise-one](/exercise/week-1-exercise.ipynb)
 
 -----------
 
@@ -64,4 +64,4 @@
     - Series
     - Dataframe
     <br/><br/>
-- [Exercise-two](\exercise\week-2-exercise.ipynb)
+- [Exercise-two](/exercise/week-2-exercise.ipynb)
