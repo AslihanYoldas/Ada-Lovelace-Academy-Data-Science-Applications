@@ -63,3 +63,5 @@
 - [Pandas-series-dataframes](data_science_week_2_4.ipynb)
     - Series
     - Dataframe
+    <br/><br/>
+- [Exercise-two](\exercise\week-2-exercise.ipynb)
