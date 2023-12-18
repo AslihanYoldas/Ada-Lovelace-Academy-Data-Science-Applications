@@ -65,3 +65,52 @@
     - Dataframe
     <br/><br/>
 - [Exercise-two](/exercise/week-2-exercise.ipynb)
+
+-----------
+
+## Week 3
+
+- [Solution-for-excersise-2 and data viz](data_science_week_3_1.ipynb)
+     <br/><br/>
+
+
+- [Data-visulazation with matplotlib and seaborn](data_science_week_3_2.ipynb)
+    - bar plot
+    - scatter plot
+    - box plot
+    - histogram
+
+     <br/><br/>
+
+- [iris-dataset](data_science_week_3_3.ipynb)
+    <br/><br/>
+
+- [group-study](data_science_week_3_group_study.ipynb)
+    - birds dataset analyzing and viz
+    <br/><br/>
+
+- [Exercise-three](/exercise/week-3-exercise.ipynb)
+    <br/><br/>
+-----------
+
+## Week 4
+
+- [Web Scraping](data_science_week_4_1.ipynb)
+    - Beautiful Soup
+    - Getting links from a web site
+     <br/><br/>
+
+- [group-study](data_science_week_4_group_study.ipynb)
+    <br/><br/>
+
+- [group-study-solution](/exercise/week-3-exercise.ipynb)
+    - getting the job links that contains python
+<br/><br/>
+
+- [Gettin Data from API](data_science_week_4_3.ipynb)
+    - Youtube API excersise
+    - Creating workflow for youtube API excersise
+<br/><br/>
+
+
+
