@@ -79,7 +79,6 @@
     - scatter plot
     - box plot
     - histogram
-
      <br/><br/>
 
 - [iris-dataset](data_science_week_3_3.ipynb)
@@ -91,6 +90,7 @@
 
 - [Exercise-three](/exercise/week-3-exercise.ipynb)
     <br/><br/>
+    
 -----------
 
 ## Week 4
