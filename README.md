@@ -106,5 +106,8 @@
     - Creating workflow for youtube API excersise
 <br/><br/>
 
+- [Excersise-4](/exercise/week-4-exercise.ipynb)
+<br/><br/>
+
 
 
