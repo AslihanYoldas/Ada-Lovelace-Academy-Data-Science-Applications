@@ -121,3 +121,24 @@
 - Excersise-5:
 [Reddit Api Project](https://github.com/AslihanYoldas/Data-Science-reddit-api-project-Ada-lovelace-academy.git)
 <br/><br/>
+
+------
+## Week 6
+
+
+- [Machine-Learning](/week_6/data_science_week_6_1.ipynb)
+    - Scikit-Learn
+    - Machine Learning pipeline example
+    - Supervised vs Unsupervised Learning
+
+- [Regression](/week_6/data_science_week_6_2.ipynb)
+    - Simple and Multiple Regression
+
+- [Regression-Example](/week_6/data_science_week_6_3.ipynb)
+    - Simple and Multiple Regression Example
+    - Regression Formula
+    - Model Evulation Metrics
+
+- [Sqlite Example](/week_6/sqlite.ipynb)
+    - [Sqlite Example .py file](/week_6/sqlite-example.py)
+
