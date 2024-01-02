@@ -109,5 +109,15 @@
 - [Excersise-4](/exercise/week-4-exercise.ipynb)
 <br/><br/>
 
+------
+## Week 5
 
+- [Top level code and `__main__` , `__name__`](/week_5/data_science_week_5_1.ipynb)
+    - [module.py](/week_5/my_module.py)
+    - [run.py](/week_5/run.py)
+    
+-  [Youtube-Api-Project](/week_5/youtube-api-project/)
 
+- Excersise-5:
+[Reddit Api Project](https://github.com/AslihanYoldas/Data-Science-reddit-api-project-Ada-lovelace-academy.git)
+<br/><br/>
