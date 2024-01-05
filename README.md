@@ -141,4 +141,5 @@
 
 - [Sqlite Example](/week_6/sqlite.ipynb)
     - [Sqlite Example .py file](/week_6/sqlite-example.py)
-
+ 
+- [Excersise-6](/exercise/week-6-excersise.ipynb)
