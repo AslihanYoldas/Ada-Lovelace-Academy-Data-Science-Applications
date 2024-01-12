@@ -1,9 +1,6 @@
 # Ada Lovelace Academy Data Science Lessons
---------
 
 ## Week 1
-
-
 
 - [Python-intro](/week_1/data_science_week_1_1.ipynb)
     - Variables
@@ -23,12 +20,12 @@
     - Fstring
     - Slice
     - Decimal
-     <br/><br/>
+   
 
 
 - [Exercise-one](/exercise/week-1-exercise.ipynb)
 
------------
+
 
 ## Week 2
 
@@ -49,7 +46,7 @@
     - Classes
     - Unpacking
     - Packing
-     <br/><br/>
+
 
 - [Numpy](/week_2//data_science_week_2_3.ipynb)
     - Arrays
@@ -59,14 +56,13 @@
     - Slicing
     - Statistics
     - Boolean Arrays
-    <br/><br/>
+  
 - [Pandas-series-dataframes](/week_2/data_science_week_2_4.ipynb)
     - Series
     - Dataframe
-    <br/><br/>
+
 - [Exercise-two](/exercise/week-2-exercise.ipynb)
 
------------
 
 ## Week 3
 
@@ -77,7 +73,7 @@
     - scatter plot
     - box plot
     - histogram
-     <br/><br/>
+
 - [iris-dataset](/week_3/data_science_week_3_3.ipynb)
 
 - [group-study](/week_3/data_science_week_3_group_study.ipynb)
@@ -85,31 +81,23 @@
 
 - [Exercise-three](/exercise/week-3-exercise.ipynb)
 
------------
 
 ## Week 4
 
 - [Web Scraping](/week_4/data_science_week_4_1.ipynb)
     - Beautiful Soup
     - Getting links from a web site
-     <br/><br/>
 
 - [group-study](/week_4/data_science_week_4_group_study.ipynb)
-    <br/><br/>
 
 - [group-study-solution](/week_4/data_science_week_4_2.ipyn)
     - getting the job links that contains python
-<br/><br/>
 
 - [Gettin Data from API](/week_4/data_science_week_4_3.ipynb)
     - Youtube API excersise
     - Creating workflow for youtube API excersise
-<br/><br/>
-
 - [Excersise-4](/exercise/week-4-exercise.ipynb)
-<br/><br/>
 
-------
 ## Week 5
 
 - [Top level code and `__main__` , `__name__`](/week_5/data_science_week_5_1.ipynb)
@@ -120,9 +108,7 @@
 
 - Excersise-5:
 [Reddit Api Project](https://github.com/AslihanYoldas/Data-Science-reddit-api-project-Ada-lovelace-academy.git)
-<br/><br/>
 
-------
 ## Week 6
 
 
@@ -143,3 +129,33 @@
     - [Sqlite Example .py file](/week_6/sqlite-example.py)
  
 - [Excersise-6](/exercise/week-6-excersise.ipynb)
+
+
+## Week 7
+
+- [Model-Evaluation in Regression Models](/week_7/data_science_week_7_1.ipynb)
+    - train/test split
+    - Evaluation Metrics
+        - MAE
+        - MSE
+        - RMSE
+        - R2 Score
+
+- [Non-Linear Regression](/week_7/data_science_week_7_2.ipynb)
+    - Polynomial Regression
+
+- [Polynomial Regression-Example](/week_7/data_science_week_7_3.ipynb)
+    - Comparing degree = 2 and degree = 3
+
+- [Non Linear Regression Plot Types and Example](/week_7/non-linear-example.ipynb)
+    - Quadratic
+    - Exponential
+    - Logarithmic
+    - Logistic / Sigmoid
+    - Non-linear regression example
+
+- [K-Nearest Neighbour Classifier with Example ](/week_7/data_science_week_7_4.ipynb)
+
+
+- [Excersise-7](/exercise/week-7-excersise.ipynb)
+    - Implement the K-Nearest Neighbors (KNN) model using a different dataset.
