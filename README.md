@@ -159,3 +159,18 @@
 
 - [Excersise-7](/exercise/week-7-excersise.ipynb)
     - Implement the K-Nearest Neighbors (KNN) model using a different dataset.
+
+    ## Week 8
+
+- [Classification Model Evaluation](/week_8/data_science_week_8_1.ipynb)
+    - Jaccard Index
+    - F1 Score
+
+- [Decision Tree with Example](/week_8/data_science_week_8_2.ipynb)
+    
+
+- [Logistic Regression with Example](/week_8/data_science_week_8_3.ipynb)
+    
+
+- [SVM with Example](/week_8/data_science_week_8_4.ipynb)
+
